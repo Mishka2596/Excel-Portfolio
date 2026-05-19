@@ -1,6 +1,6 @@
 # Excel-Portfolio
 
-### [Employee KPI Tracker] (https://github.com/Mishka2596/Excel-Employee-KPI-Template)
+### [Employee KPI Tracker](https://github.com/Mishka2596/Excel-Employee-KPI-Template)
 
 *Focus: Employee Performance Monitoring & KPI Tracking*
 
