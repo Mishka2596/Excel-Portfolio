@@ -10,7 +10,7 @@
 
 - **Key Tech:** Excel, Pivot Tables, KPI Tracking, Conditional Formatting, Performance Analysis, Data Validation
 
-- ### 🧹 [Data Cleaning Project](https://github.com/Mishka2596/YOUR-DATA-CLEANING-PROJECT-LINK)
+- ### 🧹 [Data Cleaning Project](https://github.com/Mishka2596/Excel-Retail-Dashboard))
 
 *Focus: Data Cleaning & Data Preparation*
 
